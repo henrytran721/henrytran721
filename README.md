@@ -1,4 +1,4 @@
-### Hi there 👋
+![Welcome](https://imgur.com/8b6c254b-670e-49e5-81ff-800842b9ea23)
 
 <!--
 **henrytran721/henrytran721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
