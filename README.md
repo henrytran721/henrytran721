@@ -1,8 +1,8 @@
-![Welcomee!](https://i.imgur.com/maPwsvH.jpg)
+![Welcome!](https://i.imgur.com/maPwsvH.jpg)
 - ⚡ About Me: A software engineer with a background in user experience and usability
 - 🌱 Currently a Jr. Web Developer at Amobee on the Content Team! 
 - Check out my latest project: [Horse Fields Interviews](https://thehorsefields.com) Password: "demonstrable"
-- Currently learning: Angular 2
+- Currently learning: Angular 2, PHP Backend Scripts
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/henrytran721/), [Portfolio](http://henryhtran.com/), Email: hhtran017@gmail.com
 <!--
 **henrytran721/henrytran721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
