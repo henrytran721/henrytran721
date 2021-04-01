@@ -1,4 +1,4 @@
-![Welcome!](https://i.imgur.com/maPwsvH.jpg)
+![Greetings!](https://i.imgur.com/maPwsvH.jpg)
 - ⚡ About Me: A software engineer with a background in user experience and usability
 - 🌱 Currently a Jr. Web Developer at Amobee on the Content Team! 
 - Check out my latest project: [Horse Fields Interviews](https://thehorsefields.com) Password: "demonstrable"
