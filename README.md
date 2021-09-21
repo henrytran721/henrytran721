@@ -1,4 +1,4 @@
-![Greetings!!](https://i.imgur.com/maPwsvH.jpg)
+![Greetings!](https://i.imgur.com/maPwsvH.jpg)
 - ⚡ About Me: A software engineer with a background in user experience and usability
 - 🌱 Currently a Frontend Developer at Amobee on the Content Team! 
 - Currently learning: Angular 2, PHP Backend Scripts
