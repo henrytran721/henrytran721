@@ -1,6 +1,6 @@
 ![Greetings!](https://i.imgur.com/maPwsvH.jpg)
 - ⚡ About Me: A software engineer with a background in user experience and usability
-- 🌱 Currently a Frontend Developer at Amobee on the Content Team! 
+- 🌱 Currently a Software Engineer @ Privy on the Mercury Team! 
 - Currently learning: Angular 2, PHP Backend Scripts
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/henrytran721/), [Portfolio](http://henryhtran.com/), Email: hhtran017@gmail.com
 <!--
