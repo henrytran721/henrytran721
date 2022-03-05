@@ -1,4 +1,4 @@
-![Greetings!](https://i.imgur.com/maPwsvH.jpg)
+![Greetings!!](https://i.imgur.com/maPwsvH.jpg)
 - ⚡ About Me: A Software Engineer with a background in user experience and usability
 - 🌱 Currently a Software Engineer at Privy on the Mercury Team! 
 - Currently learning: Ruby/Ruby on Rails!
